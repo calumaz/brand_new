@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882691423145",
+    "project_id": "calum-brand-new",
+    "storage_bucket": "calum-brand-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882691423145:android:c463a2b0efafb5eb86e2b8",
+        "android_client_info": {
+          "package_name": "com.example.brand_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882691423145-hcp4gru89nq8se7u1f4h5t6e88ond1lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn4p1lGTnzyw7265SoNvi11OEArHy755Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882691423145-hcp4gru89nq8se7u1f4h5t6e88ond1lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
